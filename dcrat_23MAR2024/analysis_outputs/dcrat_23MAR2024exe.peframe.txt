@@ -1,0 +1,184 @@
+XLMMacroDeobfuscator: pywin32 is not installed (only is required if you want to use MS Excel)
+
+
+--------------------------------------------------------------------------------
+File Information (time: 0:00:08.434001)
+--------------------------------------------------------------------------------
+filename         dcrat_23MAR2024exe.sample
+filetype         PE32 executable (GUI) Intel 80386, for MS Windows
+filesize         1961714
+hash sha256      ac15d82441447b30e13ba57c3c2ab12dae50e7396c74991393bd225f3784aab9
+virustotal       /
+imagebase        0x400000
+entrypoint       0x1f530
+imphash          12e12319f1029ec4f8fcbed7e82df162
+datetime         2022-03-03 13:15:57
+dll              False
+directories      import, debug, tls, resources, relocations
+sections         .rdata, .data, .didat, .text *, .rsrc *, .reloc *
+features         mutex, antidbg, packer, crypto
+
+
+--------------------------------------------------------------------------------
+Yara Plugins
+--------------------------------------------------------------------------------
+IsPE32
+IsWindowsGUI
+IsPacked
+HasOverlay
+HasDebugData
+HasRichSignature
+Big Numbers1
+Big Numbers3
+CRC32 poly Constant
+MD5 Constants
+RIPEMD160 Constants
+SHA1 Constants
+RijnDael AES CHAR
+RijnDael AES LONG
+
+
+--------------------------------------------------------------------------------
+Behavior
+--------------------------------------------------------------------------------
+anti dbg
+Xor
+escalate priv
+screenshot
+win registry
+win token
+win files operation
+
+
+--------------------------------------------------------------------------------
+Crypto
+--------------------------------------------------------------------------------
+Big Numbers1
+Big Numbers3
+CRC32 poly Constant
+MD5 Constants
+RIPEMD160 Constants
+SHA1 Constants
+RijnDael AES CHAR
+RijnDael AES LONG
+
+
+--------------------------------------------------------------------------------
+Packer
+--------------------------------------------------------------------------------
+VC8 Microsoft Corporation
+Microsoft Visual Cpp 8
+
+
+--------------------------------------------------------------------------------
+Mutex Api
+--------------------------------------------------------------------------------
+WaitForSingleObject
+
+
+--------------------------------------------------------------------------------
+Anti Debug
+--------------------------------------------------------------------------------
+GetLastError
+IsDebuggerPresent
+IsProcessorFeaturePresent
+RaiseException
+TerminateProcess
+UnhandledExceptionFilter
+
+
+--------------------------------------------------------------------------------
+Sections Suspicious
+--------------------------------------------------------------------------------
+.text            6.71
+.rsrc            6.63
+.reloc           6.62
+
+
+--------------------------------------------------------------------------------
+Import function
+--------------------------------------------------------------------------------
+KERNEL32.dll     143
+OLEAUT32.dll     3
+gdiplus.dll      9
+
+
+--------------------------------------------------------------------------------
+Possibile Breakpoint
+--------------------------------------------------------------------------------
+CloseHandle
+CreateDirectoryW
+CreateFileMappingW
+CreateFileW
+CreateThread
+DeleteCriticalSection
+DeleteFileW
+DeviceIoControl
+ExitProcess
+FindFirstFileExA
+FindFirstFileW
+FindNextFileA
+FindNextFileW
+FindResourceW
+GetCommandLineA
+GetCommandLineW
+GetCurrentProcess
+GetCurrentProcessId
+GetFileAttributesW
+GetModuleFileNameA
+GetModuleFileNameW
+GetModuleHandleExW
+GetModuleHandleW
+GetProcAddress
+GetStartupInfoW
+GetSystemDirectoryW
+GetTempPathW
+GetTickCount
+GetVersionExW
+HeapAlloc
+InitializeCriticalSectionAndSpinCount
+IsDebuggerPresent
+LoadLibraryExA
+LoadLibraryExW
+LoadLibraryW
+LockResource
+MapViewOfFile
+OpenFileMappingW
+ReadFile
+RemoveDirectoryW
+SetFilePointer
+SetFilePointerEx
+Sleep
+TerminateProcess
+UnhandledExceptionFilter
+VirtualProtect
+WaitForSingleObject
+WriteFile
+
+
+--------------------------------------------------------------------------------
+Url
+--------------------------------------------------------------------------------
+http://schemas.microsoft.com/SMI/2005/WindowsSettings
+
+
+--------------------------------------------------------------------------------
+File
+--------------------------------------------------------------------------------
+USER32.dll       Library
+GDI32.dll        Library
+COMDLG32.dll     Library
+ADVAPI32.dll     Library
+SHELL32.dll      Library
+ole32.dll        Library
+SHLWAPI.dll      Library
+COMCTL32.dll     Library
+sfxrar.exe       Executable
+KERNEL32.dll     Library
+OLEAUT32.dll     Library
+gdiplus.dll      Library
+BlockdriverhostPerf.exe Executable
+winmm.dll        Library
+KernelBase.dll   Library
+ktmw32.dll       Library
+mscoree.dll      Library
