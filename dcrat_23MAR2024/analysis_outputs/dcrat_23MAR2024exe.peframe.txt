@@ -98,9 +98,9 @@ Sections Suspicious
 --------------------------------------------------------------------------------
 Import function
 --------------------------------------------------------------------------------
-KERNEL32.dll     143
-OLEAUT32.dll     3
-gdiplus.dll      9
+KERNEL32[.]dll     143
+OLEAUT32[.]dll     3
+gdiplus[.]dll      9
 
 
 --------------------------------------------------------------------------------
@@ -159,26 +159,26 @@ WriteFile
 --------------------------------------------------------------------------------
 Url
 --------------------------------------------------------------------------------
-http://schemas.microsoft.com/SMI/2005/WindowsSettings
+hxxp[://]schemas[.]microsoft[.]com/SMI/2005/WindowsSettings
 
 
 --------------------------------------------------------------------------------
 File
 --------------------------------------------------------------------------------
-USER32.dll       Library
-GDI32.dll        Library
-COMDLG32.dll     Library
-ADVAPI32.dll     Library
-SHELL32.dll      Library
-ole32.dll        Library
-SHLWAPI.dll      Library
-COMCTL32.dll     Library
-sfxrar.exe       Executable
-KERNEL32.dll     Library
-OLEAUT32.dll     Library
-gdiplus.dll      Library
-BlockdriverhostPerf.exe Executable
-winmm.dll        Library
-KernelBase.dll   Library
-ktmw32.dll       Library
-mscoree.dll      Library
+USER32[.]dll       Library
+GDI32[.]dll        Library
+COMDLG32[.]dll     Library
+ADVAPI32[.]dll     Library
+SHELL32[.]dll      Library
+ole32[.]dll        Library
+SHLWAPI[.]dll      Library
+COMCTL32[.]dll     Library
+sfxrar[.]exe       Executable
+KERNEL32[.]dll     Library
+OLEAUT32[.]dll     Library
+gdiplus[.]dll      Library
+BlockdriverhostPerf[.]exe Executable
+winmm[.]dll        Library
+KernelBase[.]dll   Library
+ktmw32[.]dll       Library
+mscoree[.]dll      Library
