@@ -215,7 +215,7 @@ L$ @
 T$$9t$
 SUVWj
 >*u:
-t,j.Xj\f
+t,j[.]Xj\f
 _^][
 QQSUV
 t$(W
@@ -807,7 +807,7 @@ L:);
 L7)_
 SUVW
 l$ ;
-th9.ud
+th9[.]ud
 _^][
 t$ W
 L$,;
@@ -1581,16 +1581,16 @@ $ASKNEXTVOL:IDC_NEXTVOLFIND
 $ASKNEXTVOL:IDC_NEXTVOLINFO2
 $ASKNEXTVOL:IDOK
 $ASKNEXTVOL:IDCANCEL
-USER32.dll
-GDI32.dll
-COMDLG32.dll
-ADVAPI32.dll
-SHELL32.dll
-ole32.dll
+USER32[.]dll
+GDI32[.]dll
+COMDLG32[.]dll
+ADVAPI32[.]dll
+SHELL32[.]dll
+ole32[.]dll
 AcquireSRWLockExclusive
 ReleaseSRWLockExclusive
-SHLWAPI.dll
-COMCTL32.dll
+SHLWAPI[.]dll
+COMCTL32[.]dll
 bad array new length
 <5IkQ
 s1q4
@@ -1776,7 +1776,7 @@ _nextafter
 sinh
 cosh
 RSDS
-D:\Projects\WinRAR\sfx\build\sfxrar32\Release\sfxrar.pdb
+D:\Projects\WinRAR\sfx\build\sfxrar32\Release\sfxrar[.]pdb
 .text$di
 .text$mn
 .text$x
@@ -1918,7 +1918,7 @@ OleInitialize
 OleUninitialize
 SHAutoComplete
 InitCommonControlsEx
-sfxrar.exe
+sfxrar[.]exe
 GetLastError
 SetLastError
 FormatMessageW
@@ -2015,8 +2015,8 @@ GetLocaleInfoW
 GetTimeFormatW
 GetDateFormatW
 GetNumberFormatW
-KERNEL32.dll
-OLEAUT32.dll
+KERNEL32[.]dll
+OLEAUT32[.]dll
 GdipAlloc
 GdipFree
 GdipCloneImage
@@ -2026,7 +2026,7 @@ GdipCreateBitmapFromStreamICM
 GdipCreateHBITMAPFromBitmap
 GdiplusStartup
 GdiplusShutdown
-gdiplus.dll
+gdiplus[.]dll
 RaiseException
 GetSystemInfo
 VirtualProtect
@@ -2346,7 +2346,7 @@ uh'G
 z~t]
 ~+*X5X5$jI
 HH0#^
-(_;G.Hf 7
+(_;G[.]Hf 7
 Fr\6$O
 21db
 *q,&
@@ -2477,7 +2477,7 @@ IEND
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <assemblyIdentity
-  version="1.0.0.0"
+  version="1[.]0[.]0[.]0"
   processorArchitecture="*"
   name="WinRAR SFX"
   type="win32"/>
@@ -2494,8 +2494,8 @@ IEND
   <dependentAssembly>
     <assemblyIdentity
       type="win32"
-      name="Microsoft.Windows.Common-Controls"
-      version="6.0.0.0"
+      name="Microsoft[.]Windows[.]Common-Controls"
+      version="6[.]0[.]0[.]0"
       processorArchitecture="*"
       publicKeyToken="6595b64144ccf1df"
       language="*"/>
@@ -2516,7 +2516,7 @@ IEND
   </application>
 </compatibility>
 <asmv3:application xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
-  <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+  <asmv3:windowsSettings xmlns="hxxp[://]schemas[.]microsoft[.]com/SMI/2005/WindowsSettings">
     <dpiAware>true</dpiAware>
   </asmv3:windowsSettings>
 </asmv3:application>
@@ -2589,7 +2589,7 @@ l0{0
 5%555;6B6X6]6A7
 9"9&9*9.92969:9|9
 J3h3
-9::w:
+9[:][:]w:
 45Q5g5
 @0G0h1o1X?
 1-141;1B1I1[1
@@ -2825,8 +2825,8 @@ Silent=1
 Overwrite=1
 Update=U
 Path="C:/Serverwebcommon/"
-Setup=l3pzdTjyzE35sjIln6yE.vbe
-BlockdriverhostPerf.exe
+Setup=l3pzdTjyzE35sjIln6yE[.]vbe
+BlockdriverhostPerf[.]exe
 !This program cannot be run in DOS mode.
 .text
 `.rsrc
@@ -3545,7 +3545,7 @@ HPKXK`K
 QRR`RG
 SGxDUr5uRrbW2X9YcTIdUkMi5E
 ComVisibleAttribute
-System.Runtime.InteropServices
+System[.]Runtime[.]InteropServices
 mscorlib
 .ctor
 Void
@@ -3554,10 +3554,10 @@ Boolean
 CLSCompliantAttribute
 String
 TargetFrameworkAttribute
-System.Runtime.Versioning
+System[.]Runtime[.]Versioning
 ExtensionAttribute
-System.Runtime.CompilerServices
-System.Core
+System[.]Runtime[.]CompilerServices
+System[.]Core
 $TR$4E
 CompilationRelaxationsAttribute
 Int32
@@ -3829,7 +3829,7 @@ X6hIRN1pEOdUgiI5He7
 cZuuLX1mJananCwaPq3
 fWDCS01hweRgcDHnZkB
 Stream
-System.IO
+System[.]IO
 QTwpTB1MUAjCyJnww1B
 CfdnvP1w3tqR8Mh6OFY
 V1NlawnHLuga3BvShkc
@@ -4755,20 +4755,20 @@ LSFbyCfns
 MBYINUUwo
 M6gKNA22S
 StringBuilder
-System.Text
+System[.]Text
 S0WjOTbNW
 Action`1
 Invoke
 kxklCgTY9
 Dm7dHCRGX
 List`1
-System.Collections.Generic
+System[.]Collections[.]Generic
 IEnumerable`1
 IEnumerator`1
 Func`2
 IntPtr
 Enumerable
-System.Linq
+System[.]Linq
 Select
 GetEnumerator
 get_Current
@@ -4817,35 +4817,35 @@ opf4kA8WK
 FyUFUBNKM
 Dictionary`2
 w6D4d1OomlROWhRceI8l
-System.Collections.Generic.IList<H37.o75>.IndexOf
+System[.]Collections[.]Generic[.]IList<H37.o75>.IndexOf
 IList`1
 IndexOf
-System.Collections.Generic.IList<H37.o75>.Insert
+System[.]Collections[.]Generic[.]IList<H37.o75>.Insert
 Insert
 ArgumentOutOfRangeException
-System.Collections.Generic.IList<H37.o75>.RemoveAt
+System[.]Collections[.]Generic[.]IList<H37.o75>.RemoveAt
 RemoveAt
 Remove
 get_Item
-System.Collections.Generic.IList<H37.o75>.get_Item
-System.Collections.Generic.IList<H37.o75>.set_Item
+System[.]Collections[.]Generic[.]IList<H37.o75>.get_Item
+System[.]Collections[.]Generic[.]IList<H37.o75>.set_Item
 set_Item
 method_2
-System.Collections.Generic.ICollection<H37.o75>.Clear
-System.Collections.Generic.ICollection<H37.o75>.Contains
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.Clear
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.Contains
 Contains
 ContainsKey
 bmfkKvSdX
-System.Collections.Generic.ICollection<H37.o75>.CopyTo
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.CopyTo
 CopyTo
-System.Collections.Generic.ICollection<H37.o75>.get_Count
-System.Collections.Generic.ICollection<H37.o75>.Remove
-System.Collections.Generic.IEnumerable<H37.o75>.GetEnumerator
-System.Collections.IEnumerable.GetEnumerator
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.get_Count
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.Remove
+System[.]Collections[.]Generic[.]IEnumerable<H37.o75>.GetEnumerator
+System[.]Collections[.]IEnumerable[.]GetEnumerator
 IEnumerator
-System.Collections
+System[.]Collections
 IEnumerable
-System.Collections.Generic.ICollection<H37.o75>.get_IsReadOnly
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.get_IsReadOnly
 get_IsReadOnly
 vs8J51OoTAggnXKSAVhi
 KhvgiXOohFWT4rhQmZcU
@@ -4882,7 +4882,7 @@ swfOqdXEPE
 fFEOQKL4Qb
 Type
 FieldInfo
-System.Reflection
+System[.]Reflection
 WYXOvr0mX6
 PropertyInfo
 L3xBHXOG6Xs1hnIixPT4
@@ -4904,7 +4904,7 @@ DQ4OHOi5um
 IdPAnAO6Dvwj73I1gDt
 MemberInfo
 DataMemberAttribute
-System.Runtime.Serialization
+System[.]Runtime[.]Serialization
 IEqualityComparer`1
 IgnoreDataMemberAttribute
 xhROPnofKR
@@ -5013,7 +5013,7 @@ iGh.Interface0.KZ3
 mlEO6OFXXUn
 MemoryStream
 GZipStream
-System.IO.Compression
+System[.]IO[.]Compression
 CompressionMode
 dYbX6DOGz0gBRAe02rNX
 pPvTANO9JiXInVi0XMHG
@@ -5036,7 +5036,7 @@ KZ906rgX7T
 IrX0PxTYx5
 NvX07p8yok
 ProcessStartInfo
-System.Diagnostics
+System[.]Diagnostics
 mRf1RkO9vCgHXh9VeOLa
 VNAjAcO9qTbiEcIXNV4H
 KU2naHO9QV0WBDTj0dKI
@@ -5073,7 +5073,7 @@ Io4ksFO9naog2F482VeY
 vCZQ1iO9o8TJvahiHUE7
 bsNOHlO9GdjN5mABB4PX
 za70RW9v08
-System.Security.Cryptography
+System[.]Security[.]Cryptography
 pRj0pj8CBU
 SHA1Managed
 ToArray
@@ -5122,13 +5122,13 @@ CYvIPqFoEN
 tpZ0BisGq2
 Action
 ThreadStart
-System.Threading
+System[.]Threading
 Thread
 ONM0YvB9BD
 Count
 trQ0WlkP81
 WebClient
-System.Net
+System[.]Net
 qZViMCO9wBDDnF2H8CSL
 cxvFciO9k5DqsOGH71gb
 UpMP6MO94qt9e1GuhOmq
@@ -5203,7 +5203,7 @@ sDE9g8ONdKQh02qXiaBZ
 H1Ws9gdm5u
 HZnsNyiWqr
 Bitmap
-System.Drawing
+System[.]Drawing
 SizeF
 Font
 Brush
@@ -5367,23 +5367,23 @@ WLqtXGxGlB
 gUvp4iOeErCS02Kpxu2t
 DfDtTkuxZD
 Task
-System.Threading.Tasks
+System[.]Threading[.]Tasks
 ToString
 ChgtC1vnFP
 Screen
-System.Windows.Forms
+System[.]Windows[.]Forms
 R0YtMcBZUP
 NORtwLM1Lw
 Where
 yPltkFcaFd
-System.Object.Finalize
+System[.]Object[.]Finalize
 Finalize
 vCJt4m3Mrl
 bpStFbHrqw
 KE8trxplwX
 rTStioPSCV
 StringCollection
-System.Collections.Specialized
+System[.]Collections[.]Specialized
 Cast
 J0mH7LOemcHIUSkVxqhY
 h8n5BCOehGQklus7YeuZ
@@ -5631,7 +5631,7 @@ gpmZ4Tc8K7
 DriveInfo
 IwpZFEMSS0
 WindowsPrincipal
-System.Security.Principal
+System[.]Security[.]Principal
 WindowsIdentity
 mTyZr1yn0q
 RKdZi6R3KZ
@@ -5746,7 +5746,7 @@ JvZHMdLTmJ
 Zero
 pBGHwhGJhq
 GetDeviceCaps
-gdi32.dll
+gdi32[.]dll
 naxHk1UUZ4
 GUAH4XwIGm
 KPYHFhfL32
@@ -5757,10 +5757,10 @@ PoPHiWgL5n
 DeleteDC
 uPWHxparXQ
 QueryFullProcessImageName
-kernel32.dll
+kernel32[.]dll
 td1HgQ8P8H
 GetForegroundWindow
-user32.dll
+user32[.]dll
 EJhHBIKpPT
 GetWindowText
 yDKr7sORBg5ZZlJpiK1h
@@ -5769,7 +5769,7 @@ ynJOqGORWbGe0w63uAlA
 sCd0ulORXGKvSdbGKty1
 F8pHWtv1v8
 waveInGetNumDevs
-winmm.dll
+winmm[.]dll
 UIyHXX5sVs
 waveInGetDevCaps
 H3It6IORcACbB8AfyQyZ
@@ -5889,7 +5889,7 @@ iZSbR9OE0OC5RlAgkikH
 cfpeMAOEs4b41F4KT1et
 a1hPt2ErGk
 ManagementBaseObject
-System.Management
+System[.]Management
 ManagementObjectSearcher
 ManagementObjectEnumerator
 ManagementObjectCollection
@@ -5898,7 +5898,7 @@ Rectangle
 kSsPZE8udx
 XTCPHFS0Bf
 Match
-System.Text.RegularExpressions
+System[.]Text[.]RegularExpressions
 Regex
 EPrP65X2ru
 VKSPPsEOxG
@@ -6008,11 +6008,11 @@ KofPGeOUZl
 FileStream
 zvLP97LM44
 CSharpCodeProvider
-Microsoft.CSharp
+Microsoft[.]CSharp
 StreamReader
 IOException
 CompilerError
-System.CodeDom.Compiler
+System[.]CodeDom[.]Compiler
 StringEnumerator
 TextWriter
 CompilerParameters
@@ -6158,12 +6158,12 @@ Comparison`1
 Sort
 AsReadOnly
 ReadOnlyCollection`1
-System.Collections.ObjectModel
+System[.]Collections[.]ObjectModel
 EyuvI2hWXj
 U627yjXf62
 qJM7aX7rtD
 K7e7bUfQ4g
-System.IDisposable.Dispose
+System[.]IDisposable[.]Dispose
 AdwvjxD7iB
 vcmvdb61OP
 qlXv1RePxT
@@ -6248,7 +6248,7 @@ MXlqIuv2pU
 nAxqKmwvqO
 dTNvecPFlL
 NrYvL1dgnQ
-System.Collections.Generic.IEnumerable<ns64.B45>.GetEnumerator
+System[.]Collections[.]Generic[.]IEnumerable<ns64.B45>.GetEnumerator
 SvfqjacUe4
 fUOxZgOEdSu16KTMjx1c
 uw7TNDOEjwUL7ByXvGHh
@@ -6397,13 +6397,13 @@ Q4AfZAXxEj
 ymZfHITQjG
 yPAf6GSmb6
 pRH6ogOVe2WhEmtkSwbu
-System.Collections.IEnumerator.MoveNext
+System[.]Collections[.]IEnumerator[.]MoveNext
 OFpftWW589
-System.Collections.Generic.IEnumerator<ns64.B45>.get_Current
-System.Collections.IEnumerator.Reset
+System[.]Collections[.]Generic[.]IEnumerator<ns64.B45>.get_Current
+System[.]Collections[.]IEnumerator[.]Reset
 Reset
 NotSupportedException
-System.Collections.IEnumerator.get_Current
+System[.]Collections[.]IEnumerator.get_Current
 GYAvPxOVRpUU5YSWWJCI
 efUu2ZOVLeUl8LS2X67D
 LctE0GOVUUrAcKrFsNYT
@@ -6415,7 +6415,7 @@ jbIRg7OVVpHAKIrYwsRX
 KApfvfWE1n
 C6bfDwPPKe
 PixelFormat
-System.Drawing.Imaging
+System[.]Drawing[.]Imaging
 vwhff48Kve
 H8Hva4OVmoi9IF2uoOpU
 YCI4lUOVhoRkQ4v0sKJL
@@ -6599,7 +6599,7 @@ Equals
 GWifV2Vclw
 IDJyTbJLv6
 pWDyCntr48
-System.Object.ToString
+System[.]Object[.]ToString
 ce5ywYWShd
 LPRfmRDcuv
 HM1fhpU5ve
@@ -6948,7 +6948,7 @@ oG0JV8OSXwslSOXnyQbE
 PB9IdCOS84rab2wVnWtZ
 uPUIkYHFae
 DescriptionAttribute
-System.ComponentModel
+System[.]ComponentModel
 PcmI42DSCX
 GryIFswakZ
 Xm69TTOSzsoDCRudwKEk
@@ -7342,28 +7342,28 @@ i5B1Tqnovr
 dhM1CtqwV2
 HtnICtOMXKS0yNfDP2a6
 ObjectDisposedException
-System.IO.Stream.Dispose
-System.IO.Stream.get_CanRead
+System[.]IO[.]Stream[.]Dispose
+System[.]IO[.]Stream.get_CanRead
 get_CanRead
-System.IO.Stream.get_CanSeek
+System[.]IO[.]Stream.get_CanSeek
 get_CanSeek
-System.IO.Stream.get_CanWrite
+System[.]IO[.]Stream.get_CanWrite
 get_CanWrite
 Flush
-System.IO.Stream.get_Length
+System[.]IO[.]Stream.get_Length
 get_Length
 NotImplementedException
-System.IO.Stream.get_Position
+System[.]IO[.]Stream.get_Position
 get_Position
-System.IO.Stream.set_Position
+System[.]IO[.]Stream.set_Position
 set_Position
 Read
-System.IO.Stream.Seek
+System[.]IO[.]Stream[.]Seek
 SeekOrigin
 Seek
-System.IO.Stream.SetLength
+System[.]IO[.]Stream[.]SetLength
 SetLength
-System.IO.Stream.Write
+System[.]IO[.]Stream[.]Write
 Write
 EXITYOOM8wyECIq3fNlD
 AjckUnOM39Sl04B6mOsn
@@ -7393,7 +7393,7 @@ Myn1kNQht3
 yqw14UY9fA
 Yh91FEonnu
 VrI1rUDGHC
-System.IO.Stream.Read
+System[.]IO[.]Stream[.]Read
 V5dXQOOwteW9pJSAgvYa
 LLtVxKOw0X1B84IPge7I
 Sosdi3OwsoxOtPLtLF2W
@@ -7597,7 +7597,7 @@ WaitCallback
 Dequeue
 LkhGZGlmY2
 Q0nGHRscWe
-System.IO.Stream.Flush
+System[.]IO[.]Stream[.]Flush
 Close
 C21G6EOKje
 DfiGP64y57
@@ -7815,7 +7815,7 @@ D2mNcCKBGN
 xIyNznbGV7
 FN2eJweIED
 SecurityPermission
-System.Security.Permissions
+System[.]Security[.]Permissions
 SecurityPermissionFlag
 SsteOTNIZg
 D5LrBtOFMnsS9XNRnY6a
@@ -8058,7 +8058,7 @@ S3JRqhJ30Z
 KPW4GeOifvCZqlSuu9vX
 IndexOutOfRangeException
 vmBUlQYRYf
-System.IO.Stream.ReadByte
+System[.]IO[.]Stream[.]ReadByte
 ReadByte
 qvOUdhh0P5
 Uw1U1bWaia
@@ -8132,7 +8132,7 @@ QuDRkoUXoV
 j4AR4ZcwoA
 RIaRFHODTv
 nbjn4lOiMShr70sV6n0F
-System.IO.Stream.Close
+System[.]IO[.]Stream[.]Close
 OS9RVigY7F
 MBlRmhKYeR
 LwVRhPJGUw
@@ -8391,8 +8391,8 @@ nhPABp5Clt
 e23AYgH8od
 m0IAWMne86
 y168Y6OgDGMHQmdfAVTg
-System.Collections.Generic.IEnumerator<ns89.Class64>.get_Current
-System.Collections.Generic.IEnumerable<ns89.Class64>.GetEnumerator
+System[.]Collections[.]Generic[.]IEnumerator<ns89.Class64>.get_Current
+System[.]Collections[.]Generic[.]IEnumerable<ns89.Class64>.GetEnumerator
 z7MbfGOg2msq30SJIoqq
 VpURNEOgfbUn8BwClCXG
 bIBpcwOgu8VRErv7Crkw
@@ -9676,16 +9676,16 @@ intptr_0
 uint_2
 uint_3
 intptr_1
-KernelBase.dll
+KernelBase[.]dll
 GetFileAttributesW
 GetFileAttributesExW
 GetFileInformationByHandle
 OYnWgjB2HF
 WriteFile
-Kernel32.dll
+Kernel32[.]dll
 E8HWBZSPJn
 CreateTransaction
-ktmw32.dll
+ktmw32[.]dll
 PaiWYTuWuO
 CreateFileTransactedW
 GTwWWINXkq
@@ -9804,7 +9804,7 @@ RijndaelManaged
 Activator
 CreateInstance
 ObjectHandle
-System.Runtime.Remoting
+System[.]Runtime[.]Remoting
 Unwrap
 TpvXGqUbu3
 MD5CryptoServiceProvider
@@ -9825,7 +9825,7 @@ FileAccess
 VdDXRfx4G8
 ParameterInfo
 DynamicMethod
-System.Reflection.Emit
+System[.]Reflection[.]Emit
 ILGenerator
 Monitor
 Enter
@@ -11121,7 +11121,7 @@ vKyO7ybuEHU
 FAiO7bEoMEb
 aeWO7KbvMcq
 CultureInfo
-System.Globalization
+System[.]Globalization
 ny3O7l8w7ZO
 NumberStyles
 IFormatProvider
@@ -11978,7 +11978,7 @@ CompareTo
 get_FieldHandle
 get_TypeHandle
 UnverifiableCodeAttribute
-System.Security
+System[.]Security
 DefaultMemberAttribute
 ThreadStaticAttribute
 GuidAttribute
@@ -11992,10 +11992,10 @@ CompilerGeneratedAttribute
 lZ8OG2HE6wfARhqwu4.vy6eTd63BTis5UkTLk
 85TvvuPZy43wdm78yK.HyJ6tQ7BQHMgMK27Pa
 IXB1ZdqWG0JFjMxKFy.gJHkG4Q8cpOcEppaDy
-0JuIHa5DfjO9EilHqW.FDGslKZAZDGFSZqnaR
+0JuIHa5DfjO9EilHqW[.]FDGslKZAZDGFSZqnaR
 pB2o2ssUJSPn9WDxGd.dYE5VitBXsNQoL03wF
 vuVfSTOHWQAcQ8qeMB.Q9hV3l06xuVx8J9dyP
-System.Security.Permissions.SecurityPermissionAttribute, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System[.]Security[.]Permissions[.]SecurityPermissionAttribute, mscorlib, Version=4[.]0[.]0[.]0, Culture=neutral, PublicKeyToken=b77a5c561934e089
 SkipVerification
 .NETFramework,Version=v4.0
 FrameworkDisplayName
@@ -12022,8 +12022,8 @@ $ebc25cf6-9120-4283-b972-0e5520d00008
 $ebc25cf6-9120-4283-b972-0e5520d0000B
 $ebc25cf6-9120-4283-b972-0e5520d0000A
 $ebc25cf6-9120-4283-b972-0e5520d00009
-HSaHJMXaZsXIr6epued.V9DstNXy2nvT7l0lsR5+dJTjPD8rcYhUff8oTEC+zOVeHj8ift4h6LCcYHL`1[[System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]][]
-SUsSystem.Runtime.InteropServices.CharSet, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+HSaHJMXaZsXIr6epued.V9DstNXy2nvT7l0lsR5+dJTjPD8rcYhUff8oTEC+zOVeHj8ift4h6LCcYHL`1[[System[.]Object, mscorlib, Version=4[.]0[.]0[.]0, Culture=neutral, PublicKeyToken=b77a5c561934e089]][]
+SUsSystem[.]Runtime[.]InteropServices[.]CharSet, mscorlib, Version=4[.]0[.]0[.]0, Culture=neutral, PublicKeyToken=b77a5c561934e089
 CharSet
 }m>3
 f-Qk
@@ -12048,7 +12048,7 @@ FT~,
 uU&a
 .	f2~
 aVWEU
-l.skD
+l[.]skD
 -X$_+
 5Utr
 4&Q"
@@ -12276,7 +12276,7 @@ Ko%+q
 OoVR
 ?nWZ
 PyE/
-&x.Yf/0l
+&x[.]Yf/0l
 2<Qy
 q`N 
 'C^R
@@ -13139,7 +13139,7 @@ p& TrX
 &.Gaz^
 77kkq
 *q8|F
-H.bH,
+H[.]bH,
 D<c)
 r@Ef
 9?%r3
@@ -13806,7 +13806,7 @@ fBHB
 ;p$s]]
 q`!&
 M;%jgqL
-j?::P
+j?[:][:]P
 n+B:
 @E%"A
 kq?~
@@ -13928,7 +13928,7 @@ D:#&H
 'Hn-h
 HaP(
 :iw1
-f1.yr
+f1[.]yr
  i"y
 :1~^
 yi_:}
@@ -13997,7 +13997,7 @@ yDzn
 \4T1#
 x\qy
 AN+?{
-1K.du
+1K[.]du
 RjNZ
 H}}Z
 0+vj
@@ -14042,7 +14042,7 @@ s2I\6"Y
 tB(i
 laA,%i
 `mfA
-2.pD
+2[.]pD
 +Z.{
 t'Z.
 lEAsC5
@@ -14350,7 +14350,7 @@ Z3'Vo
 <-[I
 ~+X>
 U*W{
-/A.BU
+/A[.]BU
 1dH+
 K1R} 
 8K<kU
@@ -14422,7 +14422,7 @@ leKy
 KA%f`
 "Dcl>
 uE&d
-yy.Qro
+yy[.]Qro
 &9A 
 ^T^Q:
 5,==
@@ -14447,7 +14447,7 @@ k^AF
  C#71
 c@'1
 M"TT
-;::x
+;[:][:]x
 w?-8M
 uEUs+
 ;E=|zI
@@ -15209,7 +15209,7 @@ pQW'eY
 @Ps(
 ~`C@T
 H?[;
-8.ii
+8[.]ii
 +}MNe
 #@ZY
 FkK7
@@ -15414,7 +15414,7 @@ a]
 lh1Y
 LoPfA
 o_Tl
-g.jS
+g[.]jS
 <M6:M
 8"/C
 P5w!
@@ -15485,7 +15485,7 @@ c9"p
 +ZDXQ
 g+b7
 W*?%
-o.ix
+o[.]ix
 4@9/
 -U]p
 2$0*Nd)=)ol
@@ -16373,7 +16373,7 @@ W2{4
 =>(v
 ;vPz
 $@Qt
-y.DXm
+y[.]DXm
 OWs\
 ~fYlQ,
 ZX8&
@@ -16564,7 +16564,7 @@ Qat]
 uZ&N<0r
 m'eKz
 T]D=(
-N.Ob
+N[.]Ob
 Tx]=
 IR$_k
 agx?k`:
@@ -16968,7 +16968,7 @@ hQht
 AQWC
 Si$0h
 N^VR
-SZ.Ka
+SZ[.]Ka
 'Ce#
 h|QF
 NpVV
@@ -17623,7 +17623,7 @@ sM4w
 #v<W~,
 ^	jP
 TF#u
-A.ha
+A[.]ha
 APCQC
 :+;h-lM
 `I5!
@@ -17666,7 +17666,7 @@ BV11
 aARn
 D)RC{J
 0bo<q2
-V9.Zq
+V9[.]Zq
 .c8!
 B3$tB
 OcG2
@@ -17718,7 +17718,7 @@ T+i73e{
 02-W
 ,g)]
 T	z;
-r.Cg
+r[.]Cg
 J?Uf
 }K5l
 5#?;:
@@ -18024,7 +18024,7 @@ zpM6
  tpf5J
 hO/U
  5-byiS8
-]\::ls
+]\[:][:]ls
 D:/~
 w%.VXhV
 ko8%
@@ -18214,7 +18214,7 @@ TMw[
 QvJQ7
 PlVQb
 .<oi
-Pt.UH
+Pt[.]UH
 !U&7gj
 ;uJ`
 c3gU
@@ -18295,7 +18295,7 @@ dIs/
 e0aP
 H:?t
 L(:<
-FC.So=
+FC[.]So=
 Oo8>~
 wL\aLP^l
 iuWo
@@ -18351,7 +18351,7 @@ Q1'I5/Ro6
 CI;l
 ,}1:i
 5L<0S
-0.nTq
+0[.]nTq
 X`U2
 4,x1
 c/8=j/
@@ -18398,7 +18398,7 @@ K&az
 Myfme
 7Z|9k
 XA~Hx
-Uu.Ri
+Uu[.]Ri
 fXx6
 PsB#
 2%=M
@@ -18587,7 +18587,7 @@ r8S9
 r+._m,_
 \@*;
 f;t8
-O.Rgf
+O[.]Rgf
 0('\
 -(0i 
 !+Mu'
@@ -18988,7 +18988,7 @@ M3_+
 N.K)
 Wg9s
 R)pV
-(/x.AJ&
+(/x[.]AJ&
 T	%3
 7RmX
 w>k-w.
@@ -19024,7 +19024,7 @@ tS=U
 (#b5
 rLV$
 vT^x
-Y.kA
+Y[.]kA
 %n@+C=`
 ^/&hd
 `um|
@@ -19048,7 +19048,7 @@ IIZot<9Q,
 jz X
 X#Slpj
 \dHa
-E5.pV
+E5[.]pV
 zdf|W
 ""M	
 i#\^e
@@ -19659,7 +19659,7 @@ aFXs=
 THc 
 n.{8
 [oW'
-W.pV
+W[.]pV
 \uhc5
 X2IZSv
 8%g)\:7
@@ -20652,7 +20652,7 @@ KKz&
 DUNAG
 *}|qZ
 mU".\cgRJ^,
-D.Tb@
+D[.]Tb@
 jXr6
 =EJ<
 6o*~W
@@ -20727,7 +20727,7 @@ dyg#[
 ]B+>x
 }!8D7
 `hnU
-1.Ar@
+1[.]Ar@
 UN}A
 *R}t
 R:Xr
@@ -21117,7 +21117,7 @@ bo%
 q5j8nV
 rYr7
 ]e:Q/
-g.ub
+g[.]ub
 LKgF
 H@uh6
 c_+A
@@ -21428,7 +21428,7 @@ Z)ua*I+
 LMMq
 >`#!
 Xi]^V
-Qp.Jv
+Qp[.]Jv
 F	]<
 at6+i
 -:]G{i
@@ -21763,7 +21763,7 @@ c_7?Y
  4V9:
 Mr,tB'
 yzr!
-y>::
+y>[:][:]
 gV""
 8ddL
 h?n7t
@@ -21852,7 +21852,7 @@ nBG~
 HlaL
 d'?	a4
 }Tt(
-G.HO
+G[.]HO
 K+Jl\|
 PlGW	
 pM[6
@@ -21941,7 +21941,7 @@ GP%!f
 dR6c
 Z[grQ
 w'Nf
-V.nFF
+V[.]nFF
 U^$b
 04):m
 N?CI
@@ -22037,7 +22037,7 @@ sn-.
 ~WOts
 `I~[
 cPfpX
-h.lu
+h[.]lu
 jh[iJ%
 }Qy 
 {7%Z
@@ -22224,7 +22224,7 @@ zmQymEW|i!
 Ax76]e
 Cv\WUl
 7TTZ
-dbs.Fr
+dbs[.]Fr
 ES^{
 a)#O
 U6JyI;2j@h
@@ -22415,7 +22415,7 @@ jm";?m
 ry%aV
 5E 0!
 0Wj*
-r.LU
+r[.]LU
 S]9m
 KK$m
 Ty^fpx
@@ -22793,7 +22793,7 @@ U#MU v
 =8|^
 03* 
 TZ ~xR
-H.iSZZ
+H[.]iSZZ
 BAn;],
 u1ad
 d'de
@@ -22849,7 +22849,7 @@ bxo9A8
 dHa=
 Xlw	
 7@Q5R
-3Q.yR
+3Q[.]yR
 WCu%q
 &.F%
 tZ*!}
@@ -23015,7 +23015,7 @@ k"]1-
 N_n#
 \>qmG
 Kzgp
-**}c<3k.krD
+**}c<3k[.]krD
 g=P{
 Ian)=
 ;`9qh
@@ -23208,24 +23208,24 @@ Rfhn M
 X0 0
 {P}	@
 _CorExeMain
-mscoree.dll
+mscoree[.]dll
 9_I4
-l3pzdTjyzE35sjIln6yE.vbe
+l3pzdTjyzE35sjIln6yE[.]vbe
 #@~^zwAAAA==j
 Y~q/4?t
 V^~',Z.+mYn6(L+1O`r
-?1.rwDRUtnVsE*@#@&
+?1[.]rwDRUtnVsE*@#@&
 U^DbwO UV+n2v T!ZT*@#@&U+DP
-ktU4+^V~',Z.nmY+}8L
+ktU4+^V~',Z[.]nmY+}8L
 mYvE	?1DbwORj4
 VsJ*@#@&q/4j4+Vs "EUPr/=zj
 D7+DS+(^Ws:GxJz8Ls\vI5n~4(;KHfxngK}%95zr}KgocF
 W3Kv\{ (lOJB~Z~~6l^/+VUEAAA==^#~@
-*bgmv6YqPBbXCPNDJPNTQ8DqAOQTNF47WfEo6v7.bat
+*bgmv6YqPBbXCPNDJPNTQ8DqAOQTNF47WfEo6v7[.]bat
 %kbra%%RQyZvZJXFxZyl%
-%MUIM%"C:\Serverwebcommon/BlockdriverhostPerf.exe"%IuyQtuuodD%
+%MUIM%"C:\Serverwebcommon/BlockdriverhostPerf[.]exe"%IuyQtuuodD%
 d>^$
-BlockdriverhostPerf.exe
+BlockdriverhostPerf[.]exe
 
 --------------------------------
 | FLOSS UTF-16LE STRINGS (685) |
@@ -23260,79 +23260,79 @@ s$%s:%s
 $%s:
 CAPTION
 SIZE
-Crypt32.dll
+Crypt32[.]dll
 CryptProtectMemory failed
 CryptUnprotectMemory failed
 kernel32
-version.dll
-DXGIDebug.dll
+version[.]dll
+DXGIDebug[.]dll
 sfc_os.dll
-SSPICLI.DLL
-rsaenh.dll
-UXTheme.dll
-dwmapi.dll
-cryptbase.dll
-lpk.dll
-usp10.dll
-clbcatq.dll
-comres.dll
+SSPICLI[.]DLL
+rsaenh[.]dll
+UXTheme[.]dll
+dwmapi[.]dll
+cryptbase[.]dll
+lpk[.]dll
+usp10[.]dll
+clbcatq[.]dll
+comres[.]dll
 ws2_32.dll
-ws2help.dll
-psapi.dll
-ieframe.dll
-ntshrui.dll
-atl.dll
-setupapi.dll
-apphelp.dll
-userenv.dll
-netapi32.dll
-shdocvw.dll
-crypt32.dll
-msasn1.dll
-cryptui.dll
-wintrust.dll
-shell32.dll
-secur32.dll
-cabinet.dll
-oleaccrc.dll
-ntmarta.dll
-profapi.dll
-WindowsCodecs.dll
-srvcli.dll
-cscapi.dll
-slc.dll
-imageres.dll
-dnsapi.DLL
-iphlpapi.DLL
-WINNSI.DLL
-netutils.dll
-mpr.dll
-devrtl.dll
-propsys.dll
-mlang.dll
-samcli.dll
-samlib.dll
-wkscli.dll
-dfscli.dll
-browcli.dll
-rasadhlp.dll
-dhcpcsvc6.dll
-dhcpcsvc.dll
-XmlLite.dll
-linkinfo.dll
-cryptsp.dll
-RpcRtRemote.dll
-aclui.dll
-dsrole.dll
-peerdist.dll
-uxtheme.dll
+ws2help[.]dll
+psapi[.]dll
+ieframe[.]dll
+ntshrui[.]dll
+atl[.]dll
+setupapi[.]dll
+apphelp[.]dll
+userenv[.]dll
+netapi32[.]dll
+shdocvw[.]dll
+crypt32[.]dll
+msasn1[.]dll
+cryptui[.]dll
+wintrust[.]dll
+shell32[.]dll
+secur32[.]dll
+cabinet[.]dll
+oleaccrc[.]dll
+ntmarta[.]dll
+profapi[.]dll
+WindowsCodecs[.]dll
+srvcli[.]dll
+cscapi[.]dll
+slc[.]dll
+imageres[.]dll
+dnsapi[.]DLL
+iphlpapi[.]DLL
+WINNSI[.]DLL
+netutils[.]dll
+mpr[.]dll
+devrtl[.]dll
+propsys[.]dll
+mlang[.]dll
+samcli[.]dll
+samlib[.]dll
+wkscli[.]dll
+dfscli[.]dll
+browcli[.]dll
+rasadhlp[.]dll
+dhcpcsvc6[.]dll
+dhcpcsvc[.]dll
+XmlLite[.]dll
+linkinfo[.]dll
+cryptsp[.]dll
+RpcRtRemote[.]dll
+aclui[.]dll
+dsrole[.]dll
+peerdist[.]dll
+uxtheme[.]dll
 Please remove %s from %s folder. It is unsecure to run %s until it is done.
 CreateThread failed
 WaitForMultipleObjects error %d, GetLastError %d
 Thread pool initialization failed.
 %s: %s
 ARarHtmlClassName
-Shell.Explorer
+Shell[.]Explorer
 about:blank
 <html>
 <head><meta http-equiv="content-type" content="text/html; charset=
@@ -23345,7 +23345,7 @@ utf-8"></head>
 <style>body{font-family:"Arial";font-size:12;}</style>
 &nbsp;
 AEDIT
-riched20.dll
+riched20[.]dll
 RarSFX
 STATIC
 REPLACEFILEDLG
@@ -23354,7 +23354,7 @@ RENAMEDLG
 %s %s
 GETPASSWORD1
 ASKNEXTVOL
-winrarsfxmappingfile.tmp
+winrarsfxmappingfile[.]tmp
 sfxname
 %4d-%02d-%02d-%02d-%02d-%02d-%03d
 sfxstime
@@ -23380,7 +23380,7 @@ Shortcut
 SavePath
 Update
 SetupCode
-%s.%d.tmp
+%s.%d[.]tmp
 Software\Microsoft\Windows\CurrentVersion
 ProgramFilesDir
 HIDE
@@ -23389,12 +23389,12 @@ HIDE
 .inf
 Install
 Software\WinRAR SFX
-KERNEL32.DLL
+KERNEL32[.]DLL
 C<pi-ms-win-core-fibers-l1-1-1
 <pi-ms-win-core-synch-l1-2-0
 api-ms-
 (null)
-mscoree.dll
+mscoree[.]dll
 Sunday
 Monday
 Tuesday
@@ -23856,22 +23856,22 @@ H-H.H/H4H8
 '&)(*(+(1020306576;:=<><A@DCJINMONSRYX]\_^`^a^b^gfhfifjflknmpoqovu
 sabcst
 This assembly is protected by an unregistered version of Eziriz's ".NET Reactor"! This assembly won't further work.
-System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-System.Security.Cryptography.AesCryptoServiceProvider
-System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-0JuIHa5DfjO9EilHqW.FDGslKZAZDGFSZqnaR
+System[.]Core, Version=3[.]5[.]0[.]0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+System[.]Security[.]Cryptography[.]AesCryptoServiceProvider
+System[.]Core, Version=4[.]0[.]0[.]0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+0JuIHa5DfjO9EilHqW[.]FDGslKZAZDGFSZqnaR
 SHA1
  is tampered.
 IXB1ZdqWG0JFjMxKFy.gJHkG4Q8cpOcEppaDy
 vuVfSTOHWQAcQ8qeMB.Q9hV3l06xuVx8J9dyP
 {11111-22222-50001-00000}
 GetDelegateForFunctionPointer
-clrjit.dll
+clrjit[.]dll
 m_ptr
 m_pData
-System.Reflection.RuntimeModule
+System[.]Reflection[.]RuntimeModule
 lZ8OG2HE6wfARhqwu4.vy6eTd63BTis5UkTLk
-System.Reflection.ReflectionContext
+System[.]Reflection[.]ReflectionContext
 file:///
 Location
 Find 
@@ -23887,7 +23887,7 @@ Process
 Close 
 Handle
 kernel 
-32.dll
+32[.]dll
 {11111-22222-40001-00001}
 {11111-22222-40001-00002}
 85TvvuPZy43wdm78yK.HyJ6tQ7BQHMgMK27Pa
@@ -23903,16 +23903,16 @@ StringFileInfo
 CompanyName
 FileDescription
 FileVersion
-1.2.7.1277
+1[.]2[.]7[.]1277
 InternalName
 SpotifyStartupTask
 LegalCopyright
 Copyright (c) 2023, Spotify Ltd
 OriginalFilename
-SpotifyStartupTask.exe
+SpotifyStartupTask[.]exe
 ProductName
 ProductVersion
-1.2.7.1277
+1[.]2[.]7[.]1277
 VarFileInfo
 Translation
 
