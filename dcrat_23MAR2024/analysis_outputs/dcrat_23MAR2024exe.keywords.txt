@@ -21,7 +21,7 @@ DeleteObject
 ShellExecuteExW
 SHAutoComplete
 InitCommonControlsEx
-sfxrar.exe
+sfxrar[.]exe
 DeleteFileW
 SetThreadExecutionState
 DeleteCriticalSection
@@ -31,7 +31,7 @@ GetCommandLineA
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
 <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
       <requestedExecutionLevel level="asInvoker"            
-      name="Microsoft.Windows.Common-Controls"
+      name="Microsoft[.]Windows[.]Common-Controls"
 <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
     <!--The ID below indicates application support for Windows Vista -->
       <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
@@ -45,24 +45,24 @@ GetCommandLineA
       <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
 </compatibility>
 <asmv3:application xmlns:asmv3="urn:schemas-microsoft-com:asm.v3">
-  <asmv3:windowsSettings xmlns="http://schemas.microsoft.com/SMI/2005/WindowsSettings">
+  <asmv3:windowsSettings xmlns="hxxp[://]schemas[.]microsoft[.]com/SMI/2005/WindowsSettings">
 Path="C:/Serverwebcommon/"
-BlockdriverhostPerf.exe
+BlockdriverhostPerf[.]exe
 CLSCompliantAttribute
-System.Runtime.CompilerServices
+System[.]Runtime[.]CompilerServices
 RuntimeCompatibilityAttribute
 EZQKajOKXnoLt9HOCoMH
 get_Current
 get_Count
 get_Item
-System.Collections.Generic.IList<H37.o75>.get_Item
-System.Collections.Generic.ICollection<H37.o75>.get_Count
-System.Collections.Generic.ICollection<H37.o75>.get_IsReadOnly
+System[.]Collections[.]Generic[.]IList<H37.o75>.get_Item
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.get_Count
+System[.]Collections[.]Generic[.]ICollection<H37.o75>.get_IsReadOnly
 get_IsReadOnly
 ahostYOoXsAf99YEVTrV
 IEqualityComparer`1
-System.IO.Compression
-System.Security.Cryptography
+System[.]IO[.]Compression
+System[.]Security[.]Cryptography
 get_Value
 get_Key
 AesCryptoServiceProvider
@@ -72,31 +72,31 @@ CryptoStreamMode
 RegistryKey
 Registry
 DeleteDC
-System.CodeDom.Compiler
+System[.]CodeDom[.]Compiler
 get_Values
 get_Keys
 StringComparison
-System.Collections.Generic.IEnumerator<ns64.B45>.get_Current
+System[.]Collections[.]Generic[.]IEnumerator<ns64.B45>.get_Current
 NotSupportedException
-System.Collections.IEnumerator.get_Current
+System[.]Collections[.]IEnumerator.get_Current
 get_HasValue
 ACdN9cOmGTK0WkmwAFlI
 tuLQ6COmNRKoKmCsnH52
 EIbWoCOmTlTLCoxq3rX5
 W3nA6cOmFV2wUCEFFkMq
 Ek2CqcOmg7cWUJKVLuLa
-System.ComponentModel
-System.IO.Stream.get_CanRead
+System[.]ComponentModel
+System[.]IO[.]Stream.get_CanRead
 get_CanRead
-System.IO.Stream.get_CanSeek
+System[.]IO[.]Stream.get_CanSeek
 get_CanSeek
-System.IO.Stream.get_CanWrite
+System[.]IO[.]Stream.get_CanWrite
 get_CanWrite
-System.IO.Stream.get_Length
+System[.]IO[.]Stream.get_Length
 get_Length
-System.IO.Stream.get_Position
+System[.]IO[.]Stream.get_Position
 get_Position
-System.Collections.Generic.IEnumerator<ns89.Class64>.get_Current
+System[.]Collections[.]Generic[.]IEnumerator<ns89.Class64>.get_Current
 abrnN1OgAcOmS3aJVpXx
 Cjdlt4OB3y27eXEVcfre
 WAexEHlHTW
@@ -238,5 +238,5 @@ get_FieldHandle
 get_TypeHandle
 ?3exE
 _CorExeMain
-%MUIM%"C:\Serverwebcommon/BlockdriverhostPerf.exe"%IuyQtuuodD%
-BlockdriverhostPerf.exe
+%MUIM%"C:\Serverwebcommon/BlockdriverhostPerf[.]exe"%IuyQtuuodD%
+BlockdriverhostPerf[.]exe
